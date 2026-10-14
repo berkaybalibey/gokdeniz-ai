@@ -1,0 +1,3 @@
+foundry-local-sdk-winml
+streamlit>=1.40,<2.0
+pypdf>=5.0,<7.0
